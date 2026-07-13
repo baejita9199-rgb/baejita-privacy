@@ -1,8 +1,8 @@
 # นโยบายความเป็นส่วนตัว (Privacy Policy)
 
 **แอปพลิเคชัน:** เจษฎา พยากรณ์ (Jedsada Payakorn)
-**ผู้พัฒนา:** BAEJITA
-**อีเมลติดต่อ:** baejita9199@gmail.com
+**ผู้พัฒนา:** Jedsadagorn
+**อีเมลติดต่อ:** support.jedsada@gmail.com
 **ปรับปรุงล่าสุด:** 14 กรกฎาคม 2026
 
 *(English version below — [click here](#privacy-policy-english))*
@@ -91,15 +91,15 @@
 
 ## ติดต่อ
 
-คำถามเกี่ยวกับความเป็นส่วนตัว: **baejita9199@gmail.com**
+คำถามเกี่ยวกับความเป็นส่วนตัว: **support.jedsada@gmail.com**
 
 ---
 
 # Privacy Policy (English)
 
 **Application:** เจษฎา พยากรณ์ (Jedsada Payakorn)
-**Developer:** BAEJITA
-**Contact:** baejita9199@gmail.com
+**Developer:** Jedsadagorn
+**Contact:** support.jedsada@gmail.com
 **Last updated:** July 14, 2026
 
 ## Summary
@@ -189,4 +189,4 @@ are activated), this page and the "Last updated" date above will be updated.
 
 ## Contact
 
-Privacy questions: **baejita9199@gmail.com**
+Privacy questions: **support.jedsada@gmail.com**
